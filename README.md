@@ -14,3 +14,7 @@ Create a self-contained CCS project for all to use. The example projects shall h
     - [C2000 CMake toolchain] (https://gist.github.com/farrrb/032dcb907a0787ede67173fe68f97915). Also see this [thread](https://www.reddit.com/r/embedded/comments/s6r1vn/what_is_cmake_and_how_do_i_use_it_to_ease/)
 2. Something that spans other microcontroller architectures, like PIC, AVR, etc... 
   - Infact, if anone wants to do this, they should start setting up another GitHub project and start setting up goals like this project, so it is much more streamlined to the community. We shoud strive to keep these examples more or less to TI's MCU portfolio.
+
+## License
+
+[MIT License](LICENSE)
