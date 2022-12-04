@@ -3,27 +3,27 @@
 
 ### CodeComposerStudio ###
 
-tmp/
-*.tmp
-*.bak
+tmsf28377s_starter_example/tmp/
+tmsf28377s_starter_example/*.tmp
+tmsf28377s_starter_example/*.bak
 # Generated build artifact directories
-Debug/
-Release/
-Flash/
-RAM/
+tmsf28377s_starter_example/Debug/
+tmsf28377s_starter_example/Release/
+tmsf28377s_starter_example/Flash/
+tmsf28377s_starter_example/RAM/
 # Generated build artifacts
-makefile
-*.map
-*.mk
-*.opt
-*.pp
-*.xml
+tmsf28377s_starter_example/makefile
+tmsf28377s_starter_example/*.map
+tmsf28377s_starter_example/*.mk
+tmsf28377s_starter_example/*.opt
+tmsf28377s_starter_example/*.pp
+tmsf28377s_starter_example/*.xml
 # Generated directories
-.config/
-.launches/
+tmsf28377s_starter_example/.config/
+tmsf28377s_starter_example/.launches/
 # Generated file used to help display error messages in the problems view
-.xdchelp
+tmsf28377s_starter_example/.xdchelp
 # Uniflash session files
-*.uniflashsession
+tmsf28377s_starter_example/*.uniflashsession
 
 # End of https://www.toptal.com/developers/gitignore/api/codecomposerstudio
