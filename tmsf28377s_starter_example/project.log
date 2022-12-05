@@ -1,0 +1,7 @@
+
+!CONFIGURATION: 'com.ti.ccstudio.buildDefinitions.C2000.Debug.352863607' [Wed Jul 13 10:55:26 MST 2016]
+
+	!TOOL: 'com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.compilerDebug.94850502'
+
+		!WARNING: Unresolved option: com.ti.ccstudio.buildDefinitions.C2000_6.2.compilerID.ADVICE__PERFORMANCE
+
