@@ -26,4 +26,6 @@ tmsf28377s_starter_example/.xdchelp
 # Uniflash session files
 tmsf28377s_starter_example/*.uniflashsession
 
+tmsf28377s_starter_example/*.log
+
 # End of https://www.toptal.com/developers/gitignore/api/codecomposerstudio
